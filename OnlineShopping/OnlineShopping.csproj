@@ -82,6 +82,115 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Master Pages\css\bootstrap.css" />
+    <Content Include="Master Pages\css\fasthover.css" />
+    <Content Include="Master Pages\css\flexslider.css" />
+    <Content Include="Master Pages\css\font-awesome.css" />
+    <Content Include="Master Pages\css\jquery.countdown.css" />
+    <Content Include="Master Pages\css\popuo-box.css" />
+    <Content Include="Master Pages\css\style.css" />
+    <Content Include="Master Pages\fonts\fontawesome-webfont.svg" />
+    <Content Include="Master Pages\images\1.jpg" />
+    <Content Include="Master Pages\images\10.jpg" />
+    <Content Include="Master Pages\images\11.jpg" />
+    <Content Include="Master Pages\images\12.jpg" />
+    <Content Include="Master Pages\images\13.jpg" />
+    <Content Include="Master Pages\images\14.jpg" />
+    <Content Include="Master Pages\images\15.jpg" />
+    <Content Include="Master Pages\images\16.jpg" />
+    <Content Include="Master Pages\images\17.jpg" />
+    <Content Include="Master Pages\images\18.jpg" />
+    <Content Include="Master Pages\images\19.jpg" />
+    <Content Include="Master Pages\images\2.jpg" />
+    <Content Include="Master Pages\images\20.jpg" />
+    <Content Include="Master Pages\images\21.jpg" />
+    <Content Include="Master Pages\images\22.jpg" />
+    <Content Include="Master Pages\images\23.jpg" />
+    <Content Include="Master Pages\images\24.jpg" />
+    <Content Include="Master Pages\images\25.jpg" />
+    <Content Include="Master Pages\images\26.jpg" />
+    <Content Include="Master Pages\images\27.jpg" />
+    <Content Include="Master Pages\images\28.jpg" />
+    <Content Include="Master Pages\images\29.jpg" />
+    <Content Include="Master Pages\images\3.jpg" />
+    <Content Include="Master Pages\images\30.jpg" />
+    <Content Include="Master Pages\images\31.jpg" />
+    <Content Include="Master Pages\images\32.jpg" />
+    <Content Include="Master Pages\images\33.jpg" />
+    <Content Include="Master Pages\images\34.jpg" />
+    <Content Include="Master Pages\images\35.jpg" />
+    <Content Include="Master Pages\images\36.jpg" />
+    <Content Include="Master Pages\images\37.jpg" />
+    <Content Include="Master Pages\images\38.jpg" />
+    <Content Include="Master Pages\images\39.jpg" />
+    <Content Include="Master Pages\images\4.jpg" />
+    <Content Include="Master Pages\images\40.jpg" />
+    <Content Include="Master Pages\images\41.jpg" />
+    <Content Include="Master Pages\images\44.jpg" />
+    <Content Include="Master Pages\images\45.jpg" />
+    <Content Include="Master Pages\images\46.jpg" />
+    <Content Include="Master Pages\images\47.jpg" />
+    <Content Include="Master Pages\images\48.jpg" />
+    <Content Include="Master Pages\images\49.jpg" />
+    <Content Include="Master Pages\images\5.jpg" />
+    <Content Include="Master Pages\images\50.jpg" />
+    <Content Include="Master Pages\images\51.jpg" />
+    <Content Include="Master Pages\images\52.jpg" />
+    <Content Include="Master Pages\images\6.jpg" />
+    <Content Include="Master Pages\images\7.jpg" />
+    <Content Include="Master Pages\images\8.jpg" />
+    <Content Include="Master Pages\images\9.jpg" />
+    <Content Include="Master Pages\images\a.jpg" />
+    <Content Include="Master Pages\images\arrow.png" />
+    <Content Include="Master Pages\images\b.jpg" />
+    <Content Include="Master Pages\images\b1.jpg" />
+    <Content Include="Master Pages\images\bg1.jpg" />
+    <Content Include="Master Pages\images\bg2.jpg" />
+    <Content Include="Master Pages\images\bg3.jpg" />
+    <Content Include="Master Pages\images\c.jpg" />
+    <Content Include="Master Pages\images\check.png" />
+    <Content Include="Master Pages\images\close.png" />
+    <Content Include="Master Pages\images\img-sp.png" />
+    <Content Include="Master Pages\images\left-arrow.png" />
+    <Content Include="Master Pages\images\p1.jpg" />
+    <Content Include="Master Pages\images\p10.jpg" />
+    <Content Include="Master Pages\images\p11.jpg" />
+    <Content Include="Master Pages\images\p12.jpg" />
+    <Content Include="Master Pages\images\p13.jpg" />
+    <Content Include="Master Pages\images\p2.jpg" />
+    <Content Include="Master Pages\images\p3.jpg" />
+    <Content Include="Master Pages\images\p4.jpg" />
+    <Content Include="Master Pages\images\p5.jpg" />
+    <Content Include="Master Pages\images\p6.jpg" />
+    <Content Include="Master Pages\images\P7.jpg" />
+    <Content Include="Master Pages\images\p8.jpg" />
+    <Content Include="Master Pages\images\p9.jpg" />
+    <Content Include="Master Pages\images\right-arrow.png" />
+    <Content Include="Master Pages\images\star-.png" />
+    <Content Include="Master Pages\images\star.png" />
+    <Content Include="Master Pages\images\t1.png" />
+    <Content Include="Master Pages\images\t2.png" />
+    <Content Include="Master Pages\images\t3.png" />
+    <Content Include="Master Pages\images\t4.png" />
+    <Content Include="Master Pages\images\t5.png" />
+    <Content Include="Master Pages\images\t6.png" />
+    <Content Include="Master Pages\images\t7.png" />
+    <Content Include="Master Pages\images\tb1.jpg" />
+    <Content Include="Master Pages\images\tb2.jpg" />
+    <Content Include="Master Pages\images\tb3.jpg" />
+    <Content Include="Master Pages\images\tb4.jpg" />
+    <Content Include="Master Pages\images\tb5.jpg" />
+    <Content Include="Master Pages\js\bootstrap-3.1.1.min.js" />
+    <Content Include="Master Pages\js\easyResponsiveTabs.js" />
+    <Content Include="Master Pages\js\imagezoom.js" />
+    <Content Include="Master Pages\js\jquery.countdown.js" />
+    <Content Include="Master Pages\js\jquery.flexisel.js" />
+    <Content Include="Master Pages\js\jquery.flexslider.js" />
+    <Content Include="Master Pages\js\jquery.magnific-popup.js" />
+    <Content Include="Master Pages\js\jquery.min.js" />
+    <Content Include="Master Pages\js\jquery.wmuSlider.js" />
+    <Content Include="Master Pages\js\minicart.js" />
+    <Content Include="Master Pages\js\script.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -90,9 +199,32 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Master Pages\AnonymousMaster.Master.cs">
+      <DependentUpon>AnonymousMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master Pages\AnonymousMaster.Master.designer.cs">
+      <DependentUpon>AnonymousMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master Pages\UserMaster.Master.cs">
+      <DependentUpon>UserMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master Pages\UserMaster.Master.designer.cs">
+      <DependentUpon>UserMaster.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Master Pages\AnonymousMaster.Master" />
+    <Content Include="Master Pages\fonts\fontawesome-webfont.eot" />
+    <Content Include="Master Pages\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Master Pages\fonts\fontawesome-webfont.woff" />
+    <Content Include="Master Pages\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Master Pages\fonts\FontAwesome.otf" />
+    <Content Include="Master Pages\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Master Pages\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Master Pages\UserMaster.Master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -104,7 +236,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Master Pages\" />
     <Folder Include="Models\" />
     <Folder Include="Presentation Layers\" />
     <Folder Include="User Controls\" />

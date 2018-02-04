@@ -1,0 +1,17 @@
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\OnlineShopping.dll.config
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\OnlineShopping.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\OnlineShopping.pdb
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\Newtonsoft.Json.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Net.Http.Formatting.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Web.Http.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Web.Http.WebHost.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\Newtonsoft.Json.xml
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Net.Http.Formatting.xml
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Web.Http.xml
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\bin\System.Web.Http.WebHost.xml
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\obj\Debug\OnlineShopping.dll
+D:\ITI\ASP.NET\Project\Shop\OnlineShopping\obj\Debug\OnlineShopping.pdb
