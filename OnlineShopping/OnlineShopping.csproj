@@ -82,115 +82,122 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="Master Pages\css\bootstrap.css" />
-    <Content Include="Master Pages\css\fasthover.css" />
-    <Content Include="Master Pages\css\flexslider.css" />
-    <Content Include="Master Pages\css\font-awesome.css" />
-    <Content Include="Master Pages\css\jquery.countdown.css" />
-    <Content Include="Master Pages\css\popuo-box.css" />
-    <Content Include="Master Pages\css\style.css" />
-    <Content Include="Master Pages\fonts\fontawesome-webfont.svg" />
-    <Content Include="Master Pages\images\1.jpg" />
-    <Content Include="Master Pages\images\10.jpg" />
-    <Content Include="Master Pages\images\11.jpg" />
-    <Content Include="Master Pages\images\12.jpg" />
-    <Content Include="Master Pages\images\13.jpg" />
-    <Content Include="Master Pages\images\14.jpg" />
-    <Content Include="Master Pages\images\15.jpg" />
-    <Content Include="Master Pages\images\16.jpg" />
-    <Content Include="Master Pages\images\17.jpg" />
-    <Content Include="Master Pages\images\18.jpg" />
-    <Content Include="Master Pages\images\19.jpg" />
-    <Content Include="Master Pages\images\2.jpg" />
-    <Content Include="Master Pages\images\20.jpg" />
-    <Content Include="Master Pages\images\21.jpg" />
-    <Content Include="Master Pages\images\22.jpg" />
-    <Content Include="Master Pages\images\23.jpg" />
-    <Content Include="Master Pages\images\24.jpg" />
-    <Content Include="Master Pages\images\25.jpg" />
-    <Content Include="Master Pages\images\26.jpg" />
-    <Content Include="Master Pages\images\27.jpg" />
-    <Content Include="Master Pages\images\28.jpg" />
-    <Content Include="Master Pages\images\29.jpg" />
-    <Content Include="Master Pages\images\3.jpg" />
-    <Content Include="Master Pages\images\30.jpg" />
-    <Content Include="Master Pages\images\31.jpg" />
-    <Content Include="Master Pages\images\32.jpg" />
-    <Content Include="Master Pages\images\33.jpg" />
-    <Content Include="Master Pages\images\34.jpg" />
-    <Content Include="Master Pages\images\35.jpg" />
-    <Content Include="Master Pages\images\36.jpg" />
-    <Content Include="Master Pages\images\37.jpg" />
-    <Content Include="Master Pages\images\38.jpg" />
-    <Content Include="Master Pages\images\39.jpg" />
-    <Content Include="Master Pages\images\4.jpg" />
-    <Content Include="Master Pages\images\40.jpg" />
-    <Content Include="Master Pages\images\41.jpg" />
-    <Content Include="Master Pages\images\44.jpg" />
-    <Content Include="Master Pages\images\45.jpg" />
-    <Content Include="Master Pages\images\46.jpg" />
-    <Content Include="Master Pages\images\47.jpg" />
-    <Content Include="Master Pages\images\48.jpg" />
-    <Content Include="Master Pages\images\49.jpg" />
-    <Content Include="Master Pages\images\5.jpg" />
-    <Content Include="Master Pages\images\50.jpg" />
-    <Content Include="Master Pages\images\51.jpg" />
-    <Content Include="Master Pages\images\52.jpg" />
-    <Content Include="Master Pages\images\6.jpg" />
-    <Content Include="Master Pages\images\7.jpg" />
-    <Content Include="Master Pages\images\8.jpg" />
-    <Content Include="Master Pages\images\9.jpg" />
-    <Content Include="Master Pages\images\a.jpg" />
-    <Content Include="Master Pages\images\arrow.png" />
-    <Content Include="Master Pages\images\b.jpg" />
-    <Content Include="Master Pages\images\b1.jpg" />
-    <Content Include="Master Pages\images\bg1.jpg" />
-    <Content Include="Master Pages\images\bg2.jpg" />
-    <Content Include="Master Pages\images\bg3.jpg" />
-    <Content Include="Master Pages\images\c.jpg" />
-    <Content Include="Master Pages\images\check.png" />
-    <Content Include="Master Pages\images\close.png" />
-    <Content Include="Master Pages\images\img-sp.png" />
-    <Content Include="Master Pages\images\left-arrow.png" />
-    <Content Include="Master Pages\images\p1.jpg" />
-    <Content Include="Master Pages\images\p10.jpg" />
-    <Content Include="Master Pages\images\p11.jpg" />
-    <Content Include="Master Pages\images\p12.jpg" />
-    <Content Include="Master Pages\images\p13.jpg" />
-    <Content Include="Master Pages\images\p2.jpg" />
-    <Content Include="Master Pages\images\p3.jpg" />
-    <Content Include="Master Pages\images\p4.jpg" />
-    <Content Include="Master Pages\images\p5.jpg" />
-    <Content Include="Master Pages\images\p6.jpg" />
-    <Content Include="Master Pages\images\P7.jpg" />
-    <Content Include="Master Pages\images\p8.jpg" />
-    <Content Include="Master Pages\images\p9.jpg" />
-    <Content Include="Master Pages\images\right-arrow.png" />
-    <Content Include="Master Pages\images\star-.png" />
-    <Content Include="Master Pages\images\star.png" />
-    <Content Include="Master Pages\images\t1.png" />
-    <Content Include="Master Pages\images\t2.png" />
-    <Content Include="Master Pages\images\t3.png" />
-    <Content Include="Master Pages\images\t4.png" />
-    <Content Include="Master Pages\images\t5.png" />
-    <Content Include="Master Pages\images\t6.png" />
-    <Content Include="Master Pages\images\t7.png" />
-    <Content Include="Master Pages\images\tb1.jpg" />
-    <Content Include="Master Pages\images\tb2.jpg" />
-    <Content Include="Master Pages\images\tb3.jpg" />
-    <Content Include="Master Pages\images\tb4.jpg" />
-    <Content Include="Master Pages\images\tb5.jpg" />
-    <Content Include="Master Pages\js\bootstrap-3.1.1.min.js" />
-    <Content Include="Master Pages\js\easyResponsiveTabs.js" />
-    <Content Include="Master Pages\js\imagezoom.js" />
-    <Content Include="Master Pages\js\jquery.countdown.js" />
-    <Content Include="Master Pages\js\jquery.flexisel.js" />
-    <Content Include="Master Pages\js\jquery.flexslider.js" />
-    <Content Include="Master Pages\js\jquery.magnific-popup.js" />
-    <Content Include="Master Pages\js\jquery.min.js" />
-    <Content Include="Master Pages\js\jquery.wmuSlider.js" />
-    <Content Include="Master Pages\js\minicart.js" />
-    <Content Include="Master Pages\js\script.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\ApprovedOrders.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\Categories.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\Home.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\bootstrap.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\fasthover.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\flexslider.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\font-awesome.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\jquery.countdown.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\popuo-box.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\css\style.css" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\fontawesome-webfont.svg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\1.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\10.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\11.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\12.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\13.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\14.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\15.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\16.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\17.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\18.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\19.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\2.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\20.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\21.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\22.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\23.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\24.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\25.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\26.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\27.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\28.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\29.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\3.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\30.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\31.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\32.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\33.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\34.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\35.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\36.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\37.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\38.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\39.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\4.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\40.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\41.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\44.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\45.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\46.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\47.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\48.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\49.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\5.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\50.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\51.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\52.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\6.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\7.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\8.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\9.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\a.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\arrow.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\b.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\b1.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\bg1.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\bg2.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\bg3.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\c.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\check.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\close.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\img-sp.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\left-arrow.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p1.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p10.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p11.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p12.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p13.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p2.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p3.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p4.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p5.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p6.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\P7.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p8.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\p9.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\right-arrow.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\star-.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\star.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t1.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t2.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t3.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t4.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t5.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t6.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\t7.png" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\tb1.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\tb2.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\tb3.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\tb4.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\images\tb5.jpg" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\bootstrap-3.1.1.min.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\easyResponsiveTabs.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\imagezoom.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.countdown.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.flexisel.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.flexslider.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.magnific-popup.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.min.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\jquery.wmuSlider.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\minicart.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\js\script.js" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\PendedOrders.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\PendedUsers.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\Products.aspx" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\RegisteredUsers.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -199,33 +206,74 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Master Pages\AnonymousMaster.Master.cs">
-      <DependentUpon>AnonymousMaster.Master</DependentUpon>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\AdminHomePage.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Master Pages\AnonymousMaster.Master.designer.cs">
-      <DependentUpon>AnonymousMaster.Master</DependentUpon>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\AdminHomePage.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Master Pages\UserMaster.Master.cs">
-      <DependentUpon>UserMaster.Master</DependentUpon>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\AdminMaster.Master.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Master Pages\UserMaster.Master.designer.cs">
-      <DependentUpon>UserMaster.Master</DependentUpon>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\AdminMaster.Master.designer.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\ApprovedOrders.aspx.cs">
+      <DependentUpon>ApprovedOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\ApprovedOrders.aspx.designer.cs">
+      <DependentUpon>ApprovedOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\Categories.aspx.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\Categories.aspx.designer.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\PendedOrders.aspx.cs">
+      <DependentUpon>PendedOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\PendedOrders.aspx.designer.cs">
+      <DependentUpon>PendedOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\PendedUsers.aspx.cs">
+      <DependentUpon>PendedUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\PendedUsers.aspx.designer.cs">
+      <DependentUpon>PendedUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\Products.aspx.cs">
+      <DependentUpon>Products.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\Products.aspx.designer.cs">
+      <DependentUpon>Products.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\RegisteredUsers.aspx.cs">
+      <DependentUpon>RegisteredUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentation Layers\Admin\AdminMasterPage\RegisteredUsers.aspx.designer.cs">
+      <DependentUpon>RegisteredUsers.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Master Pages\AnonymousMaster.Master" />
-    <Content Include="Master Pages\fonts\fontawesome-webfont.eot" />
-    <Content Include="Master Pages\fonts\fontawesome-webfont.ttf" />
-    <Content Include="Master Pages\fonts\fontawesome-webfont.woff" />
-    <Content Include="Master Pages\fonts\fontawesome-webfont.woff2" />
-    <Content Include="Master Pages\fonts\FontAwesome.otf" />
-    <Content Include="Master Pages\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Master Pages\fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="Master Pages\UserMaster.Master" />
     <None Include="packages.config" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\AdminMaster.Master" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\fontawesome-webfont.eot" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\fontawesome-webfont.woff" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\FontAwesome.otf" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Presentation Layers\Admin\AdminMasterPage\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -236,8 +284,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Master Pages\" />
     <Folder Include="Models\" />
-    <Folder Include="Presentation Layers\" />
     <Folder Include="User Controls\" />
   </ItemGroup>
   <PropertyGroup>
