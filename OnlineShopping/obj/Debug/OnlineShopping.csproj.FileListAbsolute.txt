@@ -1,0 +1,17 @@
+E:\ShoppingOnline\OnlineShopping\bin\OnlineShopping.dll.config
+E:\ShoppingOnline\OnlineShopping\bin\OnlineShopping.dll
+E:\ShoppingOnline\OnlineShopping\bin\OnlineShopping.pdb
+E:\ShoppingOnline\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ShoppingOnline\OnlineShopping\bin\Newtonsoft.Json.dll
+E:\ShoppingOnline\OnlineShopping\bin\System.Net.Http.Formatting.dll
+E:\ShoppingOnline\OnlineShopping\bin\System.Web.Http.dll
+E:\ShoppingOnline\OnlineShopping\bin\System.Web.Http.WebHost.dll
+E:\ShoppingOnline\OnlineShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ShoppingOnline\OnlineShopping\bin\Newtonsoft.Json.xml
+E:\ShoppingOnline\OnlineShopping\bin\System.Net.Http.Formatting.xml
+E:\ShoppingOnline\OnlineShopping\bin\System.Web.Http.xml
+E:\ShoppingOnline\OnlineShopping\bin\System.Web.Http.WebHost.xml
+E:\ShoppingOnline\OnlineShopping\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+E:\ShoppingOnline\OnlineShopping\obj\Debug\OnlineShopping.dll
+E:\ShoppingOnline\OnlineShopping\obj\Debug\OnlineShopping.pdb
+E:\ShoppingOnline\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
